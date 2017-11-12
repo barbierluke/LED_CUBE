@@ -1,0 +1,5 @@
+# Exclude all text files
+
+*.txt
+pdfs/
+Tester.ino/
